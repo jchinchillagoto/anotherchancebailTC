@@ -2,7 +2,25 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: November 5, 2026
 
-By opting in to receive SMS/text messages from Another Chance Bail Bonds, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from Another Chance Bail Bonds, you agree to receive customer care messages.
+
+Message frequency:
+Message frequency may vary. On average, 1-2 messages per month.
+
+Message and data rates:
+Message and data rates may apply depending on your mobile carrier and plan.
+
+Opt-out:
+You can opt out at any time by replying STOP to any message.
+
+Help:
+Reply HELP for assistance.
+
+Privacy Policy:
+https://github.com/jchinchillagoto/anotherchancebailPP
+
+Terms of Use:
+By using this service, you agree to these terms and conditions.
 
 Business Information
 
